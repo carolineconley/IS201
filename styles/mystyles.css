@@ -1,0 +1,24 @@
+p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+li{ 
+    color: #575757;
+}
+h4{
+    color: #575757;
+   text-decoration: none;
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.color{
+    color: rgb(112, 112, 211);
+}
+.center{
+    align-items: center;
+    text-align: center;
+    display: block;
+}
+.color2{
+    color: rgb(243, 148, 162);
+}
+
+
